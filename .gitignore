@@ -30,4 +30,4 @@ build/
 ### VS Code ###
 .vscode/
 
-src/*.txt
+src2/*.txt
