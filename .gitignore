@@ -110,5 +110,5 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 
-!/src/doc/ignoretest2
-!/src/doc/ignoretest
+/src/doc/ignoretest2
+/src/doc/ignoretest
